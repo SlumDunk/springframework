@@ -137,6 +137,13 @@
 			<version>3.12.1.GA</version>
 		</dependency>
 		<!--end javassist -->
+		<!-- start cglib -->
+		<dependency>
+			<groupId>cglib</groupId>
+			<artifactId>cglib</artifactId>
+			<version>2.2.2</version>
+		</dependency>
+		<!--end cglib -->
 	</dependencies>
 	<build>
 		<finalName>springframework</finalName>
